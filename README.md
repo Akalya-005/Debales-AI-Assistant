@@ -110,5 +110,5 @@ To ensure recruiter-ready reliability, this project implements:
 
 ## 👩‍💻 Author
 **Akalya**
-- GitHub: [@Akalya-005](https://github.com/Akalya-005)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Akalya-005
+- LinkedIn: https://www.linkedin.com/in/akalya-k-548937294?utm_source=share_via&utm_content=profile&utm_medium=member_android
